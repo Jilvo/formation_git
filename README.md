@@ -40,7 +40,7 @@ La Comté est la paisible maison des Hobbits, un lieu de verdure, de confort et 
 | Campagne  | Champs de blé, jardins et rivières   |
 | Brasserie | Bières savoureuses et conviviales    |
 
-$${\color{red}Poudlard}$$
+{\color{red}Poudlard}
 
 La Terre du Mordor est l'antithèse de la Comté, un lieu de ténèbres et de danger. Voici un tableau décrivant le territoire sinistre du Mordor :
 
